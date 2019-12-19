@@ -1,0 +1,47 @@
+{
+    "name": "Podling",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/podling.png",
+    "tags": [
+        "discussions",
+        "have api",
+        "profile",
+        "projects",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/podling\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Podling",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/podling.png",
+            "humanURL": "https:\/\/podling.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/podling-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "http:\/\/docs.podling.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/iPodling"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/podling.com\/"
+        }
+    ]
+}
